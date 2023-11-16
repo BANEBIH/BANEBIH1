@@ -1,0 +1,50 @@
+body{
+	background-color: mintcream;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	color: lime;
+	background-color: yellow;
+}
+table{
+	border: double 2px orange;
+	width: 50%;
+	font-size: 24px;
+	border-collapse: separate;
+	margin: auto;
+}
+th,td{
+	border: solid 1px purple;
+	width: 25%;
+	height: 1cm;
+}
+th:hover{
+	background-color: lightgrey;
+}
+td:hover{
+	background-image: url(https://th.bing.com/th/id/R.e6f80be8122d7019c37b39b02dd6ec2c?rik=8cPbC3P%2fhfNASg&riu=http%3a%2f%2fdribbble.s3.amazonaws.com%2fusers%2f41276%2fscreenshots%2f332290%2fanimated-rainbow.gif&ehk=%2bwGd8hm2C7UEIP%2fcAs6CTAO1JBWD53iuE%2f5JGxmHEhU%3d&risl=&pid=ImgRaw&r=0);
+	font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+	font-size: 1.3em;
+}
+th:nth-child(even){
+	background-color: lightpink;
+}
+th:nth-child(odd){
+	background-color: lightcyan;
+}
+.t1{
+	border: dashed 3px red ;
+	text-align: right;
+	vertical-align: botton;
+}
+caption{
+	text-transform: uppercase;
+	color: white;
+	text-shadow: 0 0 10px lightpink;
+	font-size: 50px;
+	background: linear-gradient(to left, red, orange, yellow, green, blue, indigo, violet);
+}

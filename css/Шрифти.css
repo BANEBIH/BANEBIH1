@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Kablammo&family=Pacifico&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap');
+body{
+	background-color: lightgreen;
+}
+p{
+	font-size: 40px;
+}
+.p1{
+	color: pink;
+	background: linear-gradient(purple,violet);
+	text-align: center;
+	font-style: italic;
+}
+.p2{
+	font-family: cursive;
+	color: orange;
+	font-weight: 700;
+}
+.p3{
+	font-family: 'Comfortaa', sans-serif;
+}
+.p4{
+	font-family: 'Pacifico', cursive;
+}
+.p5{
+	font-family: 'Rubik Moonrocks', sans-serif;
+}
+.p6{
+	font-family: 'Comforter Brush', cursive;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+.p9{
+	text-decoration: underline;
+	text-decoration-color: red;
+	text-decoration-style: wavy;
+	text-underline-position: under ;
+}
+.p10{
+	color: fuchsia;
+	text-decoration: underline;
+	text-decoration-color: green;
+	text-decoration-style: double;
+	text-underline-position: under;
+}
+.p11{
+	text-shadow: 0 0 10px yellow;
+} 
+.p12{
+	color: pink;
+	text-shadow: 2px -2px red, 3px -3px plum;
+}
+.s1{
+	font-size: 2em;
+	font-family: 'Comforter Brush', cursive;
+	text-shadow: 5px -5px yellow;
+	color: blue;
+}
+.p13{
+	text-shadow: red 1px 1px 2px, blue 0px 0px 1em, blue 0px 0px 0.2em;
+}
